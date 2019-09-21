@@ -1,4 +1,4 @@
-package hu.agridorn.mediaorder.resources;
+package hu.agridorn.mediaorder.api;
 
 import hu.agridorn.mediaorder.service.MediaFetchService;
 
